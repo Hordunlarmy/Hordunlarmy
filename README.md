@@ -1,6 +1,6 @@
 
 <picture>
-  <img alt="When not succeed, Keep trying." src="https://i.imgur.com/BuuDUER.jpg">
+  <img alt="When not succeed, Keep trying." src="https://i.imgur.com/gmq7zZY.jpg">
 </picture>
 
 
