@@ -1,8 +1,8 @@
+
 <picture>
-
   <img alt="When not succeed, Keep trying." src="https://i.imgur.com/BuuDUER.jpg">
-
 </picture>
+
 
 ### Hi there 👋
 
