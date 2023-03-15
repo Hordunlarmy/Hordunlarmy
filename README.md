@@ -1,11 +1,4 @@
-
-<picture>
-  <source srcset="https://i.imgur.com/kQywxjL.jpg"  media="(prefers-color-scheme: light)"
-  <img alt="When not succeed, Keep trying." src="https://i.imgur.com/gmq7zZY.jpg">
-</picture>
-
-
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gmq7zZY.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/kMMDHVM.jpg"> <img alt="Coding Quote : If not succeed, Keep trying." src="https://i.imgur.com/kMMDHVM.jpg"> </picture>
 
 ### Hi there 👋
 
