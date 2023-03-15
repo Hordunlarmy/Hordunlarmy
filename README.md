@@ -4,7 +4,7 @@
   <img alt="When not succeed, Keep trying." src="https://i.imgur.com/gmq7zZY.jpg">
 </picture>
 
-![Termux Logo](https://i.imgur.com/kQywxjL.jpg#gh-dark-mode-only)
+
 
 
 ### Hi there 👋
