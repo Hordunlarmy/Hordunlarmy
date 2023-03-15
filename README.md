@@ -1,5 +1,6 @@
 
 <picture>
+  <source srcset="https://i.imgur.com/kQywxjL.jpg"  media="(prefers-color-scheme: light)"
   <img alt="When not succeed, Keep trying." src="https://i.imgur.com/gmq7zZY.jpg">
 </picture>
 
