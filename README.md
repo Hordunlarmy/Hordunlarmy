@@ -4,7 +4,7 @@
 
 .<p align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bamgboye-oluwatosin-9a258883/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HordunTech) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/horduntech)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HordunTech)<br>  [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/horduntech)
   </p>
   
   .<p align="center">
@@ -12,11 +12,8 @@
   <div align="center">
 
 <h1>
-
-  hey there
-
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
+hey there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gmq7zZY.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/kMMDHVM.jpg"> <img alt="Coding Quote : If not succeed, Keep trying." src="https://i.imgur.com/kMMDHVM.jpg"> </picture>
