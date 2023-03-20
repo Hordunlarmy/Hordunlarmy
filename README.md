@@ -8,6 +8,11 @@
   </p>
   
   .<p align="center">
+  <div align="center">
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+</div>
 [![](https://visitcount.itsvg.in/api?id=hordunlarmy&icon=0&color=0)](https://visitcount.itsvg.in)
  </p>
 <h1>
