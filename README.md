@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hordunlarmy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hordunlarmy&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Hordunlarmy/Hordunlarmy/blob/main/devcard.svg" width="400" alt="Hordun's Dev Card"/></a>
+<a href="https://app.daily.dev/hordunlarmy"><img src="https://github.com/Hordunlarmy/Hordunlarmy/blob/main/devcard.svg" width="400" alt="Hordun's Dev Card"/></a>
 
 ### 📫 PORTFOLIO
 *. 
