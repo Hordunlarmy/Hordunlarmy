@@ -12,7 +12,9 @@ hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<p align="center">
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/gmq7zZY.jpg"> <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/kMMDHVM.jpg"> <img alt="Coding Quote : If not succeed, Keep trying." src="https://i.imgur.com/kMMDHVM.jpg"> </picture>
+</p>
 
 <h2 align="center">About Me 👋</h2>
 
