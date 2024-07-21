@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HordunTech) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/horduntech)<br> [![](https://visitcount.itsvg.in/api?id=hordunlarmy&icon=0&color=0)](https://visitcount.itsvg.in)
   </p>
 
-<h1>
+<h1 align="center">
 hey there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
