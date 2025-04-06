@@ -49,5 +49,5 @@ hey there
 
 <h2 align="center">📫 PORTFOLIO</h2>
 <p align="center">
-  <a href="https://hordun.tech/">hordun.tech</a>
+  <a href="https://hordun.tech/">hordun.software</a>
 </p>
